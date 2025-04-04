@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dec6e2d2-fca9-4c75-999d-f368242dacf1)Это приложения для обработки изображения, работает на desktop, полностью написано на C#<br>
+##Это приложения для обработки изображения, работает на desktop, полностью написано на C#<br>
 ![image](https://github.com/user-attachments/assets/a674fbcf-a186-4da4-8d12-129845c09224)<br>
 04.04.2025 Теперь можно копировать и вставлять изображение в рабочее поле<br>
 ![image](https://github.com/user-attachments/assets/d0206993-ae24-42ac-af6d-5122060d9bdf)<br>
